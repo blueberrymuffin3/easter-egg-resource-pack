@@ -1,0 +1,23 @@
+{
+    "block.slime_block.break": {
+        "replace": true,
+        "sounds": [
+            "mob/turtle/egg/egg_crack1",
+            "mob/turtle/egg/egg_crack2",
+            "mob/turtle/egg/egg_crack3",
+            "mob/turtle/egg/egg_crack4",
+            "mob/turtle/egg/egg_crack5"
+        ],
+        "subtitle": "subtitles.block.generic.break"
+    },
+    "block.slime_block.place": {
+        "replace": true,
+        "sounds": [
+            "dig/stone1",
+            "dig/stone2",
+            "dig/stone3",
+            "dig/stone4"
+        ],
+        "subtitle": "subtitles.block.generic.place"
+    }
+}
