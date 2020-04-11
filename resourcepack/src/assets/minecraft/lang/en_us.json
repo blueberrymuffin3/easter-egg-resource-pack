@@ -1,5 +1,7 @@
 {
+    "block.minecraft.sea_pickle": "Easter Egg",
     "item.minecraft.snowball": "Easter Egg",
     "item.minecraft.honey_bottle": "Chocolate",
-    "item.minecraft.gold_nugget": "Gold Coin"
+    "item.minecraft.gold_nugget": "Gold Coin",
+    "item.minecraft.iron_nugget": "Basket"
 }

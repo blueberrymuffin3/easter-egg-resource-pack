@@ -18,6 +18,9 @@
             "dig/stone4"
         ]
     },
+    "block.slime_block.step": {
+        "replace": true
+    },
     "item.honey_bottle.drink": {
         "replace": true,
         "sounds": [
