@@ -35,5 +35,11 @@
             "mob/turtle/egg/egg_break1",
             "mob/turtle/egg/egg_break2"
         ]
+    },
+    "entity.player.levelup": {
+        "replace": true
+    },
+    "entity.experience_orb.pickup": {
+        "replace": true
     }
 }
