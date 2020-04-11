@@ -7,8 +7,7 @@
             "mob/turtle/egg/egg_crack3",
             "mob/turtle/egg/egg_crack4",
             "mob/turtle/egg/egg_crack5"
-        ],
-        "subtitle": "subtitles.block.generic.break"
+        ]
     },
     "block.slime_block.place": {
         "replace": true,
@@ -17,7 +16,21 @@
             "dig/stone2",
             "dig/stone3",
             "dig/stone4"
-        ],
-        "subtitle": "subtitles.block.generic.place"
+        ]
+    },
+    "item.honey_bottle.drink": {
+        "replace": true,
+        "sounds": [
+            "random/eat1",
+            "random/eat2",
+            "random/eat3"
+        ]
+    },
+    "entity.snowball.throw": {
+        "replace": true,
+        "sounds": [
+            "mob/turtle/egg/egg_break1",
+            "mob/turtle/egg/egg_break2"
+        ]
     }
 }
