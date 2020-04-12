@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "half=bottom,open=false": { "model": "block/iron_trapdoor_bottom" },
+        "half=top,open=false,waterlogged=false": { "model": "block/iron_trapdoor_top" },
+        "half=top,open=false,waterlogged=true": [
+            { "model": "block/lily_pad_wall" },
+            { "model": "block/lily_pad_wall", "y": 90 },
+            { "model": "block/lily_pad_wall", "y": 180 },
+            { "model": "block/lily_pad_wall", "y": 270 }
+        ],
+
+        "facing=north,half=bottom,open=true": { "model": "block/iron_trapdoor_open" },
+        "facing=south,half=bottom,open=true": { "model": "block/iron_trapdoor_open", "y": 180 },
+        "facing=east,half=bottom,open=true": { "model": "block/iron_trapdoor_open", "y": 90 },
+        "facing=west,half=bottom,open=true": { "model": "block/iron_trapdoor_open", "y": 270 },
+        "facing=north,half=top,open=true": { "model": "block/iron_trapdoor_open" },
+        "facing=south,half=top,open=true": { "model": "block/iron_trapdoor_open", "y": 180 },
+        "facing=east,half=top,open=true": { "model": "block/iron_trapdoor_open", "y": 90 },
+        "facing=west,half=top,open=true": { "model": "block/iron_trapdoor_open", "y": 270 }
+    }
+}
